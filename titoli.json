@@ -1,0 +1,90 @@
+[
+  {
+    "nome": "AP23",
+    "cedolaAnnualizzata": 0.50,
+    "isin": "IT0005105843",
+    "isinCUM": "IT0005105835",
+    "dataInizioNegoziazione": "2015-04-20T00:00:00",
+    "dataScadenza": "2023-04-20T00:00:00"
+  },
+  {
+    "nome": "MG23",
+    "cedolaAnnualizzata": 0.45,
+    "isin": "IT0005253676",
+    "isinCUM": "IT0005253668",
+    "dataInizioNegoziazione": "2017-05-22T00:00:00",
+    "dataScadenza": "2023-05-22T00:00:00"
+  },
+  {
+    "nome": "NV23",
+    "cedolaAnnualizzata": 0.25,
+    "isin": "IT0005312142",
+    "isinCUM": "IT0005312134",
+    "dataInizioNegoziazione": "2017-11-20T00:00:00",
+    "dataScadenza": "2023-11-20T00:00:00"
+  },
+  {
+    "nome": "AP24",
+    "cedolaAnnualizzata": 0.40,
+    "isin": "IT0005174906",
+    "isinCUM": "IT0005174898",
+    "dataInizioNegoziazione": "2016-04-11T00:00:00",
+    "dataScadenza": "2024-04-11T00:00:00"
+  },
+  {
+    "nome": "OT24",
+    "cedolaAnnualizzata": 0.35,
+    "isin": "IT0005217770",
+    "isinCUM": "IT0005217762",
+    "dataInizioNegoziazione": "2016-10-24T00:00:00",
+    "dataScadenza": "2024-10-24T00:00:00"
+  },
+  {
+    "nome": "MG25",
+    "cedolaAnnualizzata": 1.40,
+    "isin": "IT0005410912",
+    "isinCUM": "IT0005410904",
+    "dataInizioNegoziazione": "2020-05-26T00:00:00",
+    "dataScadenza": "2025-05-26T00:00:00"
+  },
+  {
+    "nome": "MG26",
+    "cedolaAnnualizzata": 0.55,
+    "isin": "IT0005332835",
+    "isinCUM": "IT0005332827",
+    "dataInizioNegoziazione": "2018-05-21T00:00:00",
+    "dataScadenza": "2026-05-21T00:00:00"
+  },
+  {
+    "nome": "OT27",
+    "cedolaAnnualizzata": 0.65,
+    "isin": "IT0005388175",
+    "isinCUM": "IT0005388167",
+    "dataInizioNegoziazione": "2019-10-28T00:00:00",
+    "dataScadenza": "2027-10-28T00:00:00"
+  },
+  {
+    "nome": "NV28",
+    "cedolaAnnualizzata": 1.60,
+    "isin": "IT0005517195",
+    "isinCUM": "IT0005517187",
+    "dataInizioNegoziazione": "2022-11-22T00:00:00",
+    "dataScadenza": "2028-11-22T00:00:00"
+  },
+  {
+    "nome": "GN30",
+    "cedolaAnnualizzata": 1.60,
+    "isin": "IT0005497000",
+    "isinCUM": "IT0005496994",
+    "dataInizioNegoziazione": "2022-06-28T00:00:00",
+    "dataScadenza": "2030-06-28T00:00:00"
+  },
+  {
+    "nome": "MZ28",
+    "cedolaAnnualizzata": 2.0,
+    "isin": "IT0005532723",
+    "isinCUM": "IT0005532715",
+    "dataInizioNegoziazione": "2023-03-14T00:00:00",
+    "dataScadenza": "2028-03-14T00:00:00"
+  }
+]
